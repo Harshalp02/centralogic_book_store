@@ -1,0 +1,36 @@
+{
+    "books": [
+        {
+            "title": "The Kite Runner",
+            "price": "$20.99",
+            "image": "lib/assets/images/book1.png"
+        },
+        {
+            "title": "The Subtle Art",
+            "price": "$18.99",
+            "image": "lib/assets/images/book2.png"
+        },
+        {
+            "title": "A Bronte",
+            "price": "$25.50",
+            "image": "lib/assets/images/book3.png"
+        }
+    ],
+    "authors": [
+        {
+            "name": "John Freeman",
+            "role": "Writer",
+            "image": "lib/assets/images/author1.png"
+        },
+        {
+            "name": "Tess Gunty",
+            "role": "Novelist",
+            "image": "lib/assets/images/author2.png"
+        },
+        {
+            "name": "Richard Preston",
+            "role": "Writer",
+            "image": "lib/assets/images/author3.png"
+        }
+    ]
+}
